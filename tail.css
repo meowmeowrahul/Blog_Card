@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body{
+    background: hsl(47, 88%, 63%);
+}
+
+@theme{
+    --color-hereyellow: hsl(47, 88%, 63%);
+}
